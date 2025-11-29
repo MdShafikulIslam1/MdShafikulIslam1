@@ -47,7 +47,6 @@ I love crafting scalable, beautiful, and intelligent apps using modern tools lik
 
 ## 📫 Connect with Me
 
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~011178ab11fe5cdfb4)  
 - 🖥️ [Portfolio Website](https://portfolio.shofik.xyz/)  
 - 📧 Email: `mdshafikuli421@gmail.com`  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shafikul-islam-web-dev/)  
