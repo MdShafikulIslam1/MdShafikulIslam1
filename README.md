@@ -37,11 +37,11 @@ I love crafting scalable, beautiful, and intelligent apps using modern tools lik
 
 ## Featured Projects
 
-- ** AI Web Tool** – Code, Image, Sentiment Analysis in one platform  
-- ** Real-time Delivery Tracker** – GPS live updates with socket.io  
-- ** Admin Panel System** – Role-based auth & secure CRUD  
-- ** AI Chatbot (RAG)** – LangChain + Open Source LLM  
-- ** Web Automation/Scraper** – Custom browser bots
+- **AI Web Tool** – Code, Image, Sentiment Analysis in one platform  
+- **Real-time Delivery Tracker** – GPS live updates with socket.io  
+- **Admin Panel System** – Role-based auth & secure CRUD  
+- **AI Chatbot (RAG)** – LangChain + Open Source LLM  
+- **Web Automation/Scraper** – Custom browser bots
 
 ---
 
